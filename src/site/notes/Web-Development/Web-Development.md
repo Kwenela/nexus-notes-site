@@ -1,5 +1,5 @@
 ---
-{"title":"Web-Development","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/web-development/web-development/","dgPassFrontmatter":true,"created":"","updated":""}
+{"title":"Web-Development","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/web-development/web-development/","dgPassFrontmatter":true,"created":"2023-08-09T20:31:48.854-07:00","updated":"2023-09-07T21:11:59.084-07:00"}
 ---
 
 
