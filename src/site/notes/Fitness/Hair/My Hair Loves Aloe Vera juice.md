@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/hair/my-hair-loves-aloe-vera-juice/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/fitness/hair/my-hair-loves-aloe-vera-juice/","dgPassFrontmatter":true,"created":"2023-06-11T23:11:52.866-07:00","updated":"2023-09-05T23:33:06.636-07:00"}
 ---
 
 🔺[[2601-My Hair Personalities\|2601-My Hair Personalities]]
