@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organize/outliners-options-to-use-as-my-dedicated-note-taker/"}
+{"dg-publish":true,"permalink":"/organize/outliners-options-to-use-as-my-dedicated-note-taker/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
