@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-development/hosting/can-i-host-a-wordpress-website-on-netlify/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/web-development/hosting/can-i-host-a-wordpress-website-on-netlify/","dgPassFrontmatter":true,"created":"2023-06-11T16:50:32.919-07:00","updated":"2023-09-07T15:48:59.557-07:00"}
 ---
 
 🔺[[Web-Development/Hosting/Netlify\|Netlify]]
