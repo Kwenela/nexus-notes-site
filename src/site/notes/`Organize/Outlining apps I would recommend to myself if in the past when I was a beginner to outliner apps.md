@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organize/outlining-apps-i-would-recommend-to-myself-if-in-the-past-when-i-was-a-beginner-to-outliner-apps/"}
+{"dg-publish":true,"permalink":"/organize/outlining-apps-i-would-recommend-to-myself-if-in-the-past-when-i-was-a-beginner-to-outliner-apps/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
