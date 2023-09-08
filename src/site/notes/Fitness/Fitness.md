@@ -1,5 +1,5 @@
 ---
-{"title":"Fitness","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/fitness/fitness/","dgPassFrontmatter":true,"created":"","updated":""}
+{"title":"Fitness","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/fitness/fitness/","dgPassFrontmatter":true,"created":"2023-08-09T20:32:17.488-07:00","updated":"2023-09-08T08:21:23.182-07:00"}
 ---
 
 
