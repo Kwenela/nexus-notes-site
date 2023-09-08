@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/hair/list-of-water-faucet-filters-for-purifying-water/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/fitness/hair/list-of-water-faucet-filters-for-purifying-water/","dgPassFrontmatter":true,"created":"2023-06-24T22:30:58.960-07:00","updated":"2023-09-05T23:33:06.627-07:00"}
 ---
 
 🔺[[2602-My Hair Care Products\|2602-My Hair Care Products]]
