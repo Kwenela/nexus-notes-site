@@ -1,5 +1,5 @@
 ---
-{"title":"Productivity","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/productivity/productivity/","dgPassFrontmatter":true,"created":"","updated":""}
+{"title":"Productivity","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/productivity/productivity/","dgPassFrontmatter":true,"created":"2023-08-09T20:31:46.053-07:00","updated":"2023-09-07T21:11:58.976-07:00"}
 ---
 
 
