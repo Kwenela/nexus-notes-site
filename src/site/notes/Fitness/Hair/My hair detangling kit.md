@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/hair/my-hair-detangling-kit/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/fitness/hair/my-hair-detangling-kit/","dgPassFrontmatter":true,"created":"2023-06-11T23:23:19.309-07:00","updated":"2023-09-05T23:33:06.654-07:00"}
 ---
 
 🔺[[2602-My Hair Care Products\|2602-My Hair Care Products]]
