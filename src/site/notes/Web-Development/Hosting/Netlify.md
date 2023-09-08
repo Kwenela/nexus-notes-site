@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-development/hosting/netlify/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/web-development/hosting/netlify/","dgPassFrontmatter":true,"created":"2023-06-11T15:39:01.894-07:00","updated":"2023-09-07T15:48:59.578-07:00"}
 ---
 
 🔺[[2401-Hosting\|2401-Hosting]]
