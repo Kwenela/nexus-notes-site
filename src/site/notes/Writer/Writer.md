@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/writer/writer/","title":"Writing"}
+{"title":"Writing","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/writer/writer/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
-🔺[[[0] Site Pages/Nexus Topic Map\|Nexus Topic Map]]
+🔺[[` Home/Site Pages/Nexus Topic Map\|Nexus Topic Map]]
 
 # Writer
 ---
