@@ -1,5 +1,5 @@
 ---
-{"title":"Note-Taking","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/note-taking/note-taking/","dgPassFrontmatter":true,"created":"","updated":""}
+{"title":"Note-Taking","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/note-taking/note-taking/","dgPassFrontmatter":true,"created":"2023-08-09T20:32:05.399-07:00","updated":"2023-09-07T21:11:58.972-07:00"}
 ---
 
 
