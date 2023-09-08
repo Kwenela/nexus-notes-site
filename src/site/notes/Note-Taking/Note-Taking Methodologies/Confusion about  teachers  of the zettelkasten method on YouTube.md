@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note-taking/note-taking-methodologies/confusion-about-teachers-of-the-zettelkasten-method-on-you-tube/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/note-taking/note-taking-methodologies/confusion-about-teachers-of-the-zettelkasten-method-on-you-tube/","dgPassFrontmatter":true,"created":"2023-06-11T17:00:54.874-07:00","updated":"2023-09-03T08:07:27.887-07:00"}
 ---
 
 🔺[[Interests-Note-Taking 💎\|Interests-Note-Taking 💎]]
