@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organize/remnote-app/"}
+{"aliases":null,"dg-publish":true,"permalink":"/organize/remnote-app/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
