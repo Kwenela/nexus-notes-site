@@ -3,7 +3,7 @@
 ---
 
 
-🔺[[` Home/Site Pages/Nexus Topic Map\|Nexus Topic Map]]
+🔺[[Nexus Topic Map\|Nexus Topic Map]]
 
 # Note-Taking
 ---
