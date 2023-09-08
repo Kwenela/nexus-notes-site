@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/hair/my-hair-is-more-manageable-with-soft-purified-water/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/fitness/hair/my-hair-is-more-manageable-with-soft-purified-water/","dgPassFrontmatter":true,"created":"2023-06-24T22:17:11.998-07:00","updated":"2023-09-05T23:33:06.648-07:00"}
 ---
 
 🔺[[2601-My Hair Personalities\|2601-My Hair Personalities]]
