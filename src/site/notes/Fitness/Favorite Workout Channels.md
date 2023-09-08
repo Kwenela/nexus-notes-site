@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/favorite-workout-channels/"}
+{"dg-publish":true,"permalink":"/fitness/favorite-workout-channels/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 # Favorite Workout Channels
