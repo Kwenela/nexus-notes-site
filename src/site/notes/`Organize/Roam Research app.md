@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organize/roam-research-app/"}
+{"aliases":"Roam Research","dg-publish":true,"permalink":"/organize/roam-research-app/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
