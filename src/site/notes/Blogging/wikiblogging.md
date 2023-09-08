@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogging/wikiblogging/"}
+{"dg-publish":true,"permalink":"/blogging/wikiblogging/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 🔺[[2501-My Writing Systems and Methods\|2501-My Writing Systems and Methods]]
