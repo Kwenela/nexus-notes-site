@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/kickboxing-workouts/"}
+{"dg-publish":true,"permalink":"/fitness/kickboxing-workouts/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 🔺[[2301-Different types of workouts\|2301-Different types of workouts]]
