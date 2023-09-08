@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/favorite-workout-and-stretch-videos/"}
+{"dg-publish":true,"permalink":"/fitness/favorite-workout-and-stretch-videos/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 🔺[[2301-Different types of workouts\|2301-Different types of workouts]]
