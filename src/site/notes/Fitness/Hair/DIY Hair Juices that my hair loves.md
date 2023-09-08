@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/hair/diy-hair-juices-that-my-hair-loves/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/fitness/hair/diy-hair-juices-that-my-hair-loves/","dgPassFrontmatter":true,"created":"2023-06-24T22:09:55.281-07:00","updated":"2023-09-05T23:33:06.579-07:00"}
 ---
 
 🔺[[2601-My Hair Personalities\|2601-My Hair Personalities]]
