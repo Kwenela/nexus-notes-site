@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/intense-music-to-listen-to-when-working-out/"}
+{"dg-publish":true,"permalink":"/fitness/intense-music-to-listen-to-when-working-out/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 🔺[[2302-Fitness music playlists\|2302-Fitness music playlists]]
