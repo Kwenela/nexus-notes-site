@@ -1,5 +1,5 @@
 ---
-{"title":"Writing","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/writer/writer/","dgPassFrontmatter":true,"created":"","updated":""}
+{"title":"Writing","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/writer/writer/","dgPassFrontmatter":true,"created":"2023-08-09T20:32:09.649-07:00","updated":"2023-09-07T21:11:58.964-07:00"}
 ---
 
 
