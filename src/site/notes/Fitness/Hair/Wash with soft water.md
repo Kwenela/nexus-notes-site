@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/hair/wash-with-soft-water/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/fitness/hair/wash-with-soft-water/","dgPassFrontmatter":true,"created":"2023-06-11T23:20:31.501-07:00","updated":"2023-09-05T23:33:06.685-07:00"}
 ---
 
 🔺[[2603-My Hair Care Routine\|2603-My Hair Care Routine]]
