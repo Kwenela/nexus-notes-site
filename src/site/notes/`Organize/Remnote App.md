@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/organize/remnote-app/","dgPassFrontmatter":true,"created":"","updated":""}
+{"aliases":null,"dg-publish":true,"permalink":"/organize/remnote-app/","dgPassFrontmatter":true,"created":"2023-07-02T05:30:31.001-07:00","updated":"2023-07-12T12:41:04.878-07:00"}
 ---
 
 
