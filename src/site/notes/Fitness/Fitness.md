@@ -1,19 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/fitness/","title":"Fitness"}
+{"title":"Fitness","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/fitness/fitness/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
-🔺[[[0] Site Pages/Nexus Topic Map\|Nexus Topic Map]]
+🔺[[` Home/Site Pages/Nexus Topic Map\|Nexus Topic Map]]
 
 # Fitness
 ---
 
 
 
+- [[context.mdb]]
 - [[Fitness/Deep stretch-workout before going into deep work\|Deep stretch-workout before going into deep work]]
 - [[Fitness/Favorite Workout and Stretch Videos\|Favorite Workout and Stretch Videos]]
 - [[Fitness/Favorite Workout Channels\|Favorite Workout Channels]]
 - [[Fitness/Fitness\|Fitness]]
+- **[[Fitness/Hair/Hair\|Hair]]**
 - [[Fitness/Intense music to Listen To When Working Out\|Intense music to Listen To When Working Out]]
 - [[Fitness/Jump roping workouts\|Jump roping workouts]]
 - [[Fitness/Kickboxing workouts\|Kickboxing workouts]]
