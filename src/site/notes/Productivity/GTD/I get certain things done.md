@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/productivity/gtd/i-get-certain-things-done/"}
+{"dg-publish":true,"permalink":"/productivity/gtd/i-get-certain-things-done/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 🔺 [[Interests-Productivity 💎\|Interests-Productivity 💎]]
