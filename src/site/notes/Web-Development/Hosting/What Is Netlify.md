@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-development/hosting/what-is-netlify/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/web-development/hosting/what-is-netlify/","dgPassFrontmatter":true,"created":"2023-06-11T16:50:10.285-07:00","updated":"2023-09-07T15:48:59.595-07:00"}
 ---
 
 🔺[[Web-Development/Hosting/Netlify\|Netlify]]
