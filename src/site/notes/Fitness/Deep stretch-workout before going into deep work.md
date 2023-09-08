@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/deep-stretch-workout-before-going-into-deep-work/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/fitness/deep-stretch-workout-before-going-into-deep-work/","dgPassFrontmatter":true,"created":"2023-06-11T15:40:26.122-07:00","updated":"2023-09-07T15:48:59.078-07:00"}
 ---
 
 🔺[[Interests-Fitness 💎\|Interests-Fitness 💎]]
