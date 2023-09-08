@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/web-development/web-development/","title":"Web-Development"}
+{"title":"Web-Development","aliases":[],"type":"nexus note","cssClasses":null,"publish":true,"dg-publish":true,"permalink":"/web-development/web-development/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
-🔺[[[0] Site Pages/Nexus Topic Map\|Nexus Topic Map]]
+🔺[[` Home/Site Pages/Nexus Topic Map\|Nexus Topic Map]]
 
 # Web-Development
 ---
