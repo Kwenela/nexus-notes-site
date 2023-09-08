@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/jump-roping-workouts/"}
+{"dg-publish":true,"permalink":"/fitness/jump-roping-workouts/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 🔺[[2301-Different types of workouts\|2301-Different types of workouts]]
