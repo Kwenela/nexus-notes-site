@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"publish":true,"permalink":"/home/site-pages/about-nexus-notes/","pinned":true,"dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-pinned":true,"publish":true,"permalink":"/home/site-pages/about-nexus-notes/","pinned":true,"dgPassFrontmatter":true,"created":"2023-06-25T01:48:30.050-07:00","updated":"2023-09-08T11:44:23.947-07:00"}
 ---
 
 
