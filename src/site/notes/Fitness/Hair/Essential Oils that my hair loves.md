@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/hair/essential-oils-that-my-hair-loves/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/fitness/hair/essential-oils-that-my-hair-loves/","dgPassFrontmatter":true,"created":"2023-06-24T22:04:00.245-07:00","updated":"2023-06-25T02:42:15.472-07:00"}
 ---
 
 🔺[[2601-My Hair Personalities\|2601-My Hair Personalities]]
