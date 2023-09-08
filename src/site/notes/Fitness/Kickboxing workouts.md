@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fitness/kickboxing-workouts/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/fitness/kickboxing-workouts/","dgPassFrontmatter":true,"created":"2023-06-11T15:36:23.519-07:00","updated":"2023-09-07T15:48:59.346-07:00"}
 ---
 
 🔺[[2301-Different types of workouts\|2301-Different types of workouts]]
