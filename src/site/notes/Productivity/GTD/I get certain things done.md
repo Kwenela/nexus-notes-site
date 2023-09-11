@@ -32,4 +32,4 @@ So a person that may be blinded into believing that their interests take high pr
 
 
 #### See also: 
-- [[Fitness/Deep stretch-workout before going into deep work\|Deep stretch-workout before going into deep work]]
+- [[Fitness/Daily Routines/Deep stretch-workout before going into deep work\|Deep stretch-workout before going into deep work]]
