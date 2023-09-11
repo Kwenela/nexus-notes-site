@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"publish":true,"permalink":"/home/site-pages/about-nexus-notes/","pinned":true,"dgPassFrontmatter":true,"created":"2023-06-25T01:48:30.050-07:00","updated":"2023-09-08T11:44:23.947-07:00"}
+{"dg-publish":true,"dg-pinned":true,"publish":true,"permalink":"/home/site-pages/about-nexus-notes/","pinned":true,"dgPassFrontmatter":true,"created":"2023-06-25T01:48:30.050-07:00","updated":"2023-09-10T14:50:53.735-07:00"}
 ---
 
-
+🔺[[` Home/Site Pages/Welcome To Nexus Notes\|Welcome To Nexus Notes]]
 # About Nexus Notes
 
 
 
 ## Who am I? 
 
-My name is [Kwenela Tubbs](http://kwenelatubbs.com/) and I curate content for Christ, so there is _alot_ that I do. If you want to go to my main site to see more about me follow this link [here](http://kwenelatubbs.com/). 
+My name is [Kwenela Tubbs](http://kwenelatubbs.com/) and I curate content for Christ, so there is _alot_ that I do. If you want to go to my main site to see more about me follow this link [here](http://kwenelatubbs.com/)
+You should learn more about me by reading what I write here. 
 
 ---
 
@@ -64,3 +65,8 @@ You don’t have to. Everything I do I do for the glory of God, so this resource
 ## Want to talk about it? 
 
 Unlike my other [ministry video streaming sites](https://www.youtube.com/channel/UCKHACaOJ-F0W4OgCyrJaEWg)and social media platforms that I am on I don’t really plan on turning on the comments sections to _this_ site. This is because it’s my personal notebook. _However_, if you _do_ have a question about something or want to give me a shout you could do so on my [twitter](https://twitter.com/realKwenelaT). I’m not _too_ active on there but I do check messages or tweets from time to time.
+
+
+If you want to jump into the many different notes that I write. Start at the map below: 
+
+- [[` Home/Site Pages/Nexus Map\|Nexus Map]]
