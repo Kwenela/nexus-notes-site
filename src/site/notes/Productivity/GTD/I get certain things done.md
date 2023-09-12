@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/productivity/gtd/i-get-certain-things-done/","dgPassFrontmatter":true,"created":"2023-06-11T15:36:46.189-07:00","updated":"2023-09-07T15:48:59.521-07:00"}
+{"title":"I get certain things done","aliases":null,"type":["nexus entry note"],"dg-publish":true,"publish":true,"tags":["gtd"],"permalink":"/productivity/gtd/i-get-certain-things-done/","dgPassFrontmatter":true,"created":"2023-06-11T15:36:46.189-07:00","updated":"2023-09-11T21:53:32.410-07:00"}
 ---
 
-🔺 [[Interests-Productivity 💎\|Interests-Productivity 💎]]
+
+🔺[[Productivity/GTD/GTD\|GTD]]
+
 
 # I get certain things done
+---
 
 Getting certain things done is going to result in me being busy and that is good to an extent depending on _what_ I am busy doing. 
 
@@ -27,9 +30,18 @@ So a person that may be blinded into believing that their interests take high pr
 > “I get certain things done…”
 
 
-#### Related:
+
+
+Date: #2023/09 | Last Updated:: 2023-09-11
+
+---
+- Tags:: #gtd #productivity 
+
+
+### Related:
 - [[The lie and cult of the GTD movement\|The lie and cult of the GTD movement]]
 
 
-#### See also: 
-- [[` Home/Inbox/Deep stretch-workout before going into deep work\|Deep stretch-workout before going into deep work]]
+
+
+
