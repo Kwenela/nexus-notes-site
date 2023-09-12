@@ -1,9 +1,10 @@
 ---
-{"title":"Obsidian's aethetics distract me from focusing on writing","aliases":[],"type":["nexus entry note"],"dg-publish":true,"publish":true,"tags":["Note-Taking","apps"],"permalink":"/apps/note-taking-apps/obsidian/obsidian-s-aesthetics-distract-me-from-focusing-on-writing/","dgPassFrontmatter":true,"created":"2023-09-11T14:05:50.978-07:00","updated":"2023-09-11T14:26:05.197-07:00"}
+{"title":"Obsidian's aethetics distract me from focusing on writing","aliases":[],"type":["nexus entry note"],"dg-publish":true,"publish":true,"tags":["Note-Taking","apps"],"permalink":"/apps/note-taking-apps/obsidian/obsidian-s-aesthetics-distract-me-from-focusing-on-writing/","dgPassFrontmatter":true,"created":"2023-09-11T14:05:50.978-07:00","updated":"2023-09-11T20:55:46.099-07:00"}
 ---
 
 
 🔺[[Apps/Note-Taking Apps/Obsidian/Obsidian\|Obsidian]]
+
 
 # Obsidian's aesthetics distract me from focusing on writing
 ---
@@ -28,6 +29,8 @@ I just use my obsidian vault as an archiving station more than my main writing o
 No amount of tweaking css and themes could justify obsidian feeling like it is visually off. It's a great app though, but I can't focus because of aesthetics and not so much the plugin community (which is also distracting). 
 
 The Minimal Theme, Mado 11 Theme, and Things 3 Theme are the closest to elegance of me writing in Obsidian but for some reason it is still not there yet. I wonder if it is because Obsidian is an electron app?...
+
+Maybe I can just keep trying different plugin settings to make Obsidian as minimal as possible - but I only need to do this in my free time. I have wasted *enough* time with customization of this vault. 
 
 
 
